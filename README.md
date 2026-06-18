@@ -26,21 +26,21 @@ The technology originated from practical experience with ultrasound systems and 
 
 #### Journal Article
 * **Title:** From Practical Ultrasound Experience to a Patented Hydroxyapatite Extraction Process
-* **DOI:** [10.5281/zenodo.20213410](https://doi.org)
+* **DOI:** [https://doi.org/10.5281/zenodo.20213410](https://doi.org)
 * **Published:** May 15, 2026
 
 #### Dataset
 * **Title:** XRD Patterns of Biogenic Hydroxyapatite Extracted from Fish Scales
-* **DOI:** [10.5281/zenodo.20628595](https://doi.org)
+* **DOI:** [https://doi.org/10.5281/zenodo.20628595](https://doi.org)
 * **Published:** June 10, 2026
 
 #### Preprints
 * **Title:** Simple Extraction of Hydroxyapatite from Fish Scales Using Ultrasound-Assisted Alkaline Hydrolysis: Structural, Morphological, and Elemental Characterization
-* **DOI:** [10.5281/zenodo.20691481](https://doi.org)
+* **DOI:** [https://doi.org/10.5281/zenodo.20691481](https://doi.org)
 * **Published:** June 14, 2026
 
 * **Title:** Extraction and Characterization of Biogenic Hydroxyapatite from Fish Scales via Ultrasound-Assisted Alkaline Hydrolysis
-* **DOI:** [10.5281/zenodo.20704312](https://doi.org)
+* **DOI:** [https://doi.org/10.5281/zenodo.20704312](https://doi.org)
 * **Published:** June 15, 2026
 
 ---
