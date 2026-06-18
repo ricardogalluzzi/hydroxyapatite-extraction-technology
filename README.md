@@ -21,20 +21,20 @@ Publications
 Journal Article
 ● Title: From Practical Ultrasound Experience to a Patented Hydroxyapatite
 Extraction Process
-● DOI: 10.5281/zenodo.20213410
+● DOI: https://doi.org/10.5281/zenodo.20213410
 ● Published: May 15, 2026
 Dataset
 ● Title: XRD Patterns of Biogenic Hydroxyapatite Extracted from Fish Scales
-● DOI: 10.5281/zenodo.20628595
+● DOI: https://doi.org/10.5281/zenodo.20628595
 ● Published: June 10, 2026
 Preprints ● Title: Simple Extraction of Hydroxyapatite from Fish Scales Using
 Ultrasound-Assisted Alkaline Hydrolysis: Structural, Morphological, and
 Elemental Characterization
-● DOI: 10.5281/zenodo.20691481
+● DOI: https://doi.org/10.5281/zenodo.20691481
 ● Published: June 14, 2026
 ● Title: Extraction and Characterization of Biogenic Hydroxyapatite from Fish
 Scales via Ultrasound-Assisted Alkaline Hydrolysis
-● DOI: 10.5281/zenodo.20704312
+● DOI: https://doi.org/10.5281/zenodo.20704312
 ● Published: June 15, 2026
 Research Platforms
 The ecosystem of this technology integrates the following platforms:
