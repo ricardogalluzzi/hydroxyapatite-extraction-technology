@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or documentation, please cite it as below."
+authors:
+- family-names: "Oliveira"
+  given-names: "Ricardo Luiz Galluzzi de"
+title: "hydroxyapatite-extraction-technology"
+version: "1.0.0"
+date-released: 2026-06-18
+url: "https://github.com"
+
